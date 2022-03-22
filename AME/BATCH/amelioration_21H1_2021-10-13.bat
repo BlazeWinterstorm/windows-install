@@ -727,8 +727,8 @@ bcdedit /set {current} recoveryenabled no
 
 :: Disable Hibernation to make NTFS accessable outside of Windows
 powercfg /h off
-:: Set Performance Plan to High Performance and display to never turn off
-powercfg /S 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c
+:: Set Performance Plan to Ultimate Performance and display to never turn off
+powercfg /S e9a42b02-d5df-448d-aa00-03f14749eb61
 powercfg /change monitor-timeout-ac 0
 
 goto reboot
