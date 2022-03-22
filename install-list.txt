@@ -1,0 +1,52 @@
+#### Image Programs
+* Krita
+* Inkscape
+* GIMP
+
+#### Terminal
+* Alacritty
+
+#### Text Editors
+* Atom
+* Notepad ++
+* LibreOffice
+
+#### Gaming
+* Steam
+* Playnite
+* OBS
+* Ryujinx
+* Yuzu
+* Dolfin
+* Desume
+* Locale Emulator
+
+#### Media
+* mpv
+* jpegview
+* Canon webcam utility
+* MP3tag
+
+#### Dev
+* Renpy
+* JDK 17 IBM
+* OpenSSH
+* Git
+
+#### Browser
+* Firefox
+* Chromium
+  #### Extentions
+  * UBlock Origin
+  * xBrowserSync
+
+#### Others
+* qBitorrent
+* 7zip
+* Bitwarden
+* Logitech Onboard Memory Manager
+
+
+AMD Drivers 
+JP locale 
+eng us eng world
